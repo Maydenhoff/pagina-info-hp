@@ -4,22 +4,22 @@ let casasArray2 = [
     {
         nombre: "Gryffindor",
         imagen:
-            "https://static.wikia.nocookie.net/esharrypotter/images/a/a3/Gryffindor_Pottermore.png/revision/latest?cb=20140922195249",
+            "imagenes/Gryffindor_Pottermore.webp",
     },
     {
         nombre: "Slytherin",
         imagen:
-            "https://static.wikia.nocookie.net/esharrypotter/images/6/69/Slytherin_Pottermore.png/revision/latest?cb=20141001130915",
+            "imagenes/Slytherin_Pottermore.webp",
     },
     {
         nombre: "Hufflepuff",
         imagen:
-            "https://static.wikia.nocookie.net/esharrypotter/images/4/42/Hufflepuff_Pottermore.png/revision/latest?cb=20141001131135",
+            "imagenes/Hufflepuff_Pottermore.webp",
     },
     {
         nombre: "Ravenclaw",
         imagen:
-            "https://static.wikia.nocookie.net/esharrypotter/images/7/76/Ravenclaw_Pottermore.png/revision/latest?cb=20141001130914",
+            "imagenes/Ravenclaw_Pottermore.webp",
     },
 ];
 
